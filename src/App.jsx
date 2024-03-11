@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-     #LAoadMore Component
+     #LoadMore Component
      <LoadMoreData />
     </div>
   )
